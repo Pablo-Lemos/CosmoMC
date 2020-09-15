@@ -98,6 +98,8 @@
             allocate(DR1xLikelihood::this)
         else if (Datasets%Name(i)=='DR14LYA') then
             allocate(DR1xLikelihood::this)
+        else if (Datasets%Name(i)=='DR16LYA') then
+            allocate(DR1xLikelihood::this)
         else
             allocate(TBAOLikelihood::this)
         end if

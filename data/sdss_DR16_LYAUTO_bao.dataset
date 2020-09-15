@@ -1,0 +1,14 @@
+#Results from arXiv:2007.08995 lyman-alpha forest auto-correlation
+name = DR16LYA
+
+zeff =2.34
+
+is_square = F
+alpha_npoints = 28
+alpha_npoints_plel = 28
+prob_dist = sdss_DR16_LYAUTO_bao.dat
+
+Hrd_fid = 34937
+DA_rd_fid = 11.754
+
+measurement_type = dilation
